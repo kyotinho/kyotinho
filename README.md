@@ -62,7 +62,6 @@ I am a passionate Economics Science student at University of Brasília, driven b
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/williamsoares1/)
 - Connect with me on [Twitter](https://x.com/kyotocanhoto)
-- Read more of my articles on (...) >*Currently working*<
+- Read more of my articles on (*Currently Working*)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
+### Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
