@@ -14,6 +14,7 @@ I am a passionate Economics Science student at University of Brasília, driven b
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ae,arch,linux,debian,blender,obsidian,notion,ps,pr,py,pycharm,sqlite,latex,git,github,gmail,ai,discord,bots,discordjs,react)](https://skillicons.dev)
+
 [![Currently Learning](https://skillicons.dev/icons?i=ocml,cpp)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
