@@ -59,7 +59,7 @@ I am a passionate Economics Science student at University of Brasília, driven b
 ## 📫 Liked my Profile? Get in Touch!
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-- Connect with me on [Linkedin] (https://www.linkedin.com/in/williamsoares1/)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/williamsoares1/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 - Connect with me on [Twitter](https://x.com/kyotocanhoto)
 - Read more of my articles on (...) >*Currently working*<
