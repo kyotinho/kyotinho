@@ -39,26 +39,27 @@ I am a passionate Economics Science student at University of Brasília, driven b
     
  ## 🏆 Achievements
 
-- 🌟 President of the Academic Council in University of Brasilia (2024) - Contributed to build a better community inside of the academic environment.
-- 🏆 Top-10 on BTG Pactual Investment Banking Trading Championship at 20 years-old (2025).
-- 🐚 Current Leader of a Brazilian Developers and Development Students Commmunity (2025).
-- 🧑‍🏫 Founder of a Free Public Discord Fundamental-School, Middle-School and University Study Library destined to universal cutting edge opportunities for students (2021).
-- 🧮 Ex-member of a Financial Consulting and Performance Tracker Startup that used GPT's Model with Excel and PowerBI dashboards to help companies (2024).
+- 🌟 **President of the Academic Council in University of Brasilia** (2024) - Contributed to build a better community inside of the academic environment.
+- 🏆 **Top-10 on BTG Pactual Investment Banking Trading Championship** at 20 years-old (2025).
+- 🐚 Current **Leader of Selfmade Brazilian Developers and Development Students Commmunity** (2025).
+- 🧑‍🏫 Founder of a **Free Public Discord Fundamental-School, Middle-School and University Study Library** destined to universal cutting edge opportunities for students, free, forever (2021).
+- 🧮 Ex-member of a **Financial Consulting and Performance Tracker Startup** that used **GPT's Model with Excel and PowerBI dashboards to help companies** (2024).
 - And much more (...)
 
 ## 💬 Current languages that I am proficient in:
 
-- 🇧🇷 Portuguese (Native)
-- 🇺🇸 English (112 TOEFL Score + CCAA Language School Certificate)
-- 🇪🇸 Spanish (CCAA Language School Certificate)
-- 🇩🇪 German (Busuu and Duolingo Online Language School)
-- 🇫🇷 French (Busuu and Duolingo Online Language School)
-- 🇨🇳 Chinese (Busuu and Duolingo Online Language School)
-- 🇮🇹 Italian (Busuu and Duolingo Online Language School)
+- 🇧🇷 **Portuguese** (Native)
+- 🇺🇸 **English** (112 TOEFL Score + CCAA Language School Certificate)
+- 🇪🇸 **Spanish** (CCAA Language School Certificate)
+- 🇩🇪 **German** (Busuu and Duolingo Online Language School)
+- 🇫🇷 **French** (Busuu and Duolingo Online Language School)
+- 🇨🇳 **Chinese** (Busuu and Duolingo Online Language School)
+- 🇮🇹 **Italian** (Busuu and Duolingo Online Language School)
   
 ## 📫 Liked my Profile? Get in Touch!
 
 [![Socials](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
+
 - Connect with me on [Linkedin](https://www.linkedin.com/in/williamsoares1/)
 - Connect with me on [Twitter](https://x.com/kyotocanhoto)
 - Read more of my articles on (...) >*Currently working*<
