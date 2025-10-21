@@ -64,4 +64,4 @@ I am William, a 20 years-old passionate Economics Science student at University 
 
 ### Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-<img alt="my stats" align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=kyotinho&show_icons=true&theme=radical"/>
+<img alt="my stats" align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=kyotinho&show_icons=true&theme=radical"/>
