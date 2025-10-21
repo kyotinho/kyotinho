@@ -12,7 +12,7 @@ I am a passionate Economics Science student at University of Brasília, driven b
 - 🌐 Currently a Brazilian Citizen, aiming to explore the world and it's beauty.
 - ✍️ Currently working on building a community of devs from Brazil!
 
-## Tech Stack
+## 🧠 Tech Stack
 
 #### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ae,arch,linux,debian,blender,obsidian,notion,ps,pr,py,pycharm,sqlite,latex,git,github,gmail,ai,discord,bots,discordjs,react)](https://skillicons.dev)
@@ -28,7 +28,7 @@ I am a passionate Economics Science student at University of Brasília, driven b
   - Deepening my knowledge in **financial econometrics** and **time series analysis** for model development.
   - Strengthening my foundation in **stochastic calculus** and **statistical arbitrage** to build more robust financial models.
 
-## 🌰 Interest Areas:
+## 🪷 Interest Areas:
 
   - Architecting scalable **data pipelines** for **real-time market data**.
   - Learning **Apache Spark** for **large-scale financial dataset processing**.
@@ -56,9 +56,11 @@ I am a passionate Economics Science student at University of Brasília, driven b
 - 🇨🇳 Chinese (Busuu and Duolingo Online Language School)
 - 🇮🇹 Italian (Busuu and Duolingo Online Language School)
   
-## 📬 Get in Touch
+## 📫 Liked my Profile? Get in Touch!
 
-- **Connect with me on [Linkedin](https://www.linkedin.com/in/williamsoares1/)**
+[![Linkedin ](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+- **Connect with me on [Linkedin] (https://www.linkedin.com/in/williamsoares1/)**
+[![Twitter ](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 - **Connect with me on [Twitter](https://x.com/kyotocanhoto)**
 - Read more of my articles on (...) >*Currently working*<
 
