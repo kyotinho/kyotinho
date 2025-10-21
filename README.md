@@ -2,7 +2,7 @@
 
 I am William, a 20 years-old passionate Economics Science student at University of Brasília, driven by a curiosity for technology and a love for finance. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the world.
 
-![<Kyotinho>'s Stats](https://github-readme-stats-git-main-kyotinhos-projects.vercel.app/api?username=<kyotinho>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img allign="left" alt="Kyotinho's Github Stats" src="https://github-readme-stats-git-main-kyotinhos-projects.vercel.app/api?username=<kyotinho>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 
 ## 🚀 About Me
 
