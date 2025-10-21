@@ -6,7 +6,7 @@ I am William, a 20 years-old passionate Economics Science student at University 
 
 - 🔭 I'm currently pursuing my Degree in **Economics** at **University of Brasília**.
 - 💭 I am currently planning on having a **double graduation in Economics and Accounting**.
-- 📝 I am **passionate about CS and math**, specailly for the quantitative area of Analysis and Research on Finance with Python and Neural Networks, SQL, AI and Javascript.
+- 📝 I am **passionate about CS and math**, specially for the quantitative area of Analysis and Research on Finance with Python and Neural Networks, SQL, AI and Javascript.
 - 🌐 Currently a Brazilian Citizen, aiming to explore the world and it's beauty.
 - ✍️ Currently working on building a community of devs from Brazil!
 
