@@ -1,4 +1,4 @@
-# Hi, I'm William, I'm 20-years old! 👋
+# Hi, Welcome to my profile! 👋
 
 I am a passionate Economics Science student at University of Brasília, driven by a curiosity for technology and a love for finance. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the world.
 
