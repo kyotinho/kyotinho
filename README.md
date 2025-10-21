@@ -3,7 +3,7 @@
 I am William, a 20 years-old passionate Economics Science student at University of Brasília, driven by a curiosity for technology and a love for finance. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the world.
 
 <img alt="my stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=kyotinho&show_icons=true&theme=radical"/>
-<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyotinho)](https://github.com/anuraghazra/github-readme-stats"/>
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyotinho&layout=compact"/>
 
 ## 🚀 About Me
 
