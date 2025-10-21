@@ -1,6 +1,6 @@
 # Hi, Welcome to my profile! 👋
 
-I am a passionate Economics Science student at University of Brasília, driven by a curiosity for technology and a love for finance. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the world.
+I am William, a 20 years-old passionate Economics Science student at University of Brasília, driven by a curiosity for technology and a love for finance. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the world.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
