@@ -16,7 +16,7 @@ I am William, a 20 years-old passionate Economics Science student at University 
 [![My Skills](https://skillicons.dev/icons?i=js,html,py,pycharm,react,sqlite,arch,linux,debian,blender,obsidian,notion,latex,git,github,gmail,discord,bots,discordjs,ai,ps,pr,ae)](https://skillicons.dev)
 
 #### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=ocaml,cpp)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ocaml,cpp,tensorflow)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
