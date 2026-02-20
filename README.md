@@ -5,10 +5,10 @@ I am William, a 20 years-old multi-hobbist passionate Economics & Finance studen
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Degree in **Economics** at **University of Brasília**.
-- 💭 I am currently planning on having a **double graduation in Economics and Accounting**.
+- 💭 To-complete maths masters degree.
 - 📝 I am **passionate about CS, FP&A, Data Analysis/Manipulation, Finance and Math**, specially for the quantitative area of Analysis and Research on Finance with Python and Neural Networks, SQL, AI and Javascript.
 - 🌐 Currently a Brazillian Citizen, aiming to explore the world and it's beauty.
-- ✍️ Currently working on building a community of devs from Brazil!
+- ✍️ Currently working on building a community of Quantitative Finance in Brazil!
 
 ## 🧠 Tech Stack
 
