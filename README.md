@@ -61,6 +61,7 @@ I am William, a 21 years-old multi-hobbist passionate Economics & Finance studen
   - **Video Production**: End-to-end video creation, editing, and publishing as a YouTube, Tiktok and Instagram creator (over 10M views in total). Via: [Imgur](https://imgur.com/a/WGx7rV0)
 
   - **Adobe Creative Cloud**: Advanced proficiency in After Effects (motion graphics), Photoshop (image editing/thumbnails), Premiere (advanced video editing), Capcut (simple video editing) and Illustrator (graphic design).
+  - **Video Editing Softwares**: Advanced proficiency in most of the video-editing softwares (Davinci Resolve, Capcut, Vegas Pro, Premiere, After Effects etc.)
   - **Creative Strategy**: Leveraging copywriting, storytelling, and consumer psychology to drive viewer engagement and growth.
 
 ###  💼 Business & Finance
