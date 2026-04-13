@@ -23,7 +23,7 @@ I am William, a 21 years-old polymath Economics student at University of Brasíl
   - Applying AI and Machine Learning to quantitative finance problems using libraries like **Qlib** and **Scikit-learn**.
   - Building **financial data pipelines** and **backtesting engines in Python** to validate **trading strategies**.
   - **Optimizing computational power with C++ for high-frequency trading algorithms**.
-  - Developing **interactive financial dashboards** and **data visualizations** with **JavaScript** and **React**.
+  - Developing **interactive financial dashboards** and **data visualizations** with **JavaScript**, **Front-End Languages** and **React**.
   - Deepening my knowledge in **financial econometrics** and **time series analysis** for model development.
   - Strengthening my foundation in **stochastic calculus** and **statistical arbitrage** to build more robust financial models and risk management strategies.
 
