@@ -1,14 +1,14 @@
 # Hi, Welcome to my profile! 👋
 
-I am William, a 21 years-old multi-hobbist passionate Economics & Finance student at University of Brasília, driven by a curiosity for technology and a love for finance. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the world.
+I am William, a 21 years-old polymath Economics student at University of Brasília, driven by a curiosity for technology and a love for finance and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Degree in **Economics** at **University of Brasília**.
-- 💭 To-complete maths masters degree.
-- 📝 I am **passionate about CS, FP&A, Data Analysis/Manipulation, Finance and Math**, specially for the quantitative area of Analysis and Research on Finance with Python and Neural Networks, SQL, AI and Javascript.
+- 💭 Future Double Graduation on Computer Science and a Maths or Statistics Master Degree 
+- 📝 I am **passionate about CS, FP&A, M&A, Data Analysis/Manipulation, Quantitative Finance and Programming**.
 - 🌐 Currently a Brazillian Citizen, aiming to explore the world and it's beauty.
-- ✍️ Currently working on building a community of Quantitative Finance in Brazil!
+- ✍️ Currently working on building a community of Quants in Brazil!
 
 ## 🧠 Tech Stack
 
@@ -22,9 +22,10 @@ I am William, a 21 years-old multi-hobbist passionate Economics & Finance studen
 
   - Applying AI and Machine Learning to quantitative finance problems using libraries like **Qlib** and **Scikit-learn**.
   - Building **financial data pipelines** and **backtesting engines in Python** to validate **trading strategies**.
+  - **Optimizing computational power with C++ for high-frequency trading algorithms**.
   - Developing **interactive financial dashboards** and **data visualizations** with **JavaScript** and **React**.
   - Deepening my knowledge in **financial econometrics** and **time series analysis** for model development.
-  - Strengthening my foundation in **stochastic calculus** and **statistical arbitrage** to build more robust financial models.
+  - Strengthening my foundation in **stochastic calculus** and **statistical arbitrage** to build more robust financial models and risk management strategies.
 
 ## 🪷 Interest Areas:
 
@@ -38,11 +39,12 @@ I am William, a 21 years-old multi-hobbist passionate Economics & Finance studen
     
  ## 🏆 Achievements
 
-- 🌟 **President of the Academic Council in University of Brasilia** (2024) - Contributed to build a better community inside of the academic environment.
+- 🌟 **President of the Academic Council of Economics in University of Brasilia** (2024) - Contributed to build a better community inside of the academic environment.
 - 🏆 **Top-10 on BTG Pactual Investment Banking Trading Championship** at 20 years-old (2025).
 - 🐚 Current **Leader of Selfmade Brazilian Developers and Development Students Commmunity** (2025).
 - 🧑‍🏫 Founder of a **Free Public Discord Fundamental-School, Middle-School and University Study Library** destined to universal cutting edge opportunities for students, free, forever (2021).
 - 🧮 Ex-member of a **Financial Consulting and Performance Tracker Startup** that used **GPT's Model with Excel and Excel + PowerBI dashboards to help companies along with Financial Planning and Analysis** (2024).
+- 💻 **Ex-member of University of Brasília's Junior Company of Economics**
 - And much more (...)
 
 ## 🛠️ Other Technical Skills & Domains (Apart from Coding)
@@ -56,15 +58,7 @@ I am William, a 21 years-old multi-hobbist passionate Economics & Finance studen
   - **Big Data Processing**: Apache Spark for large-scale financial datasets
   - **Quantitative Research**: Qlib workflow implementation
 
-### 🎥 Content Creation & Digital Media
-
-  - **Video Production**: End-to-end video creation, editing, and publishing as a YouTube, Tiktok and Instagram creator (over 10M views in total). Via: [Imgur](https://imgur.com/a/WGx7rV0)
-
-  - **Adobe Creative Cloud**: Advanced proficiency in After Effects (motion graphics), Photoshop (image editing/thumbnails), Premiere (advanced video editing), Capcut (simple video editing) and Illustrator (graphic design).
-  - **Video Editing Softwares**: Advanced proficiency in most of the video-editing softwares (Davinci Resolve, Capcut, Vegas Pro, Premiere, After Effects etc.)
-  - **Creative Strategy**: Leveraging copywriting, storytelling, and consumer psychology to drive viewer engagement and growth.
-
-###  💼 Business & Finance
+###  💼 Business & Finance (Hard Skills)
 
   - **FP&A**: Financial planning and analysis
   - **Accounting Principles**: Core accounting concepts
@@ -73,7 +67,7 @@ I am William, a 21 years-old multi-hobbist passionate Economics & Finance studen
   - **Leadership**: Team management and project leadership
   - **On-going Major Degree in Economics (plus future plans on a math master degree)**
 
-### 💻 Advanced IT & Systems Expertise
+### 💻 Advanced IT & Systems Expertise (Hard Skills)
 
   - **Hardware Architecture**: Building high-performance workstations and servers from component selection to thermal optimization. Special interest in HEDT platforms and server-grade hardware for data-intensive workloads. 
   - **Self-Hosting & Homelab**: Deploying and maintaining self-hosted services including:
@@ -86,7 +80,24 @@ I am William, a 21 years-old multi-hobbist passionate Economics & Finance studen
   - **Network Engineering**: Configuring VLANs, VPNs, and firewall rules for segmented lab environments. Experience with pfSense and WireGuard.
   **Performance Tuning**: Kernel compilation for specific workloads, SSD caching configurations, and memory subsystem optimization.
 
-### 🕵️ Security Fundamentals (Cybersecurity and Defensive Hacking)
+### 🧮 Mathematical Economics & Quantitative Theory (Intermediate Skills)
+
+  - **Calculus & Analysis**: Single and multivariable calculus, sequences, series, and convergence analysis.
+  - **Linear Algebra**: Vector spaces, linear transformations, eigenvalues, and quadratic forms.
+  - **Mathematical Optimization**: Static and dynamic optimization (Lagrange, Kuhn-Tucker), and Comparative Statics.
+  - **Dynamic Systems**: Differential (ODE) and Difference Equations applied to economic modeling.
+  - **Probability & Statistics**: Probability distributions, limit theorems (LLN/CLT), and Maximum Likelihood Estimation.
+  - **Advanced Theory**: Topology and Real Analysis applied to Fixed Point Theorems and General Equilibrium.
+  - **Econometrics**: Matrix-based regression analysis, Gauss-Markov assumptions, and statistical inference.
+
+### 🎥 Content Creation & Digital Media (Creative Hobby)
+
+  - **Video Production**: End-to-end video creation, editing, and publishing as a YouTube, Tiktok and Instagram creator (over 10M views in total). Via: [Imgur](https://imgur.com/a/WGx7rV0)
+  - **Adobe Creative Cloud**: Advanced proficiency in After Effects (motion graphics), Photoshop (image editing/thumbnails), Premiere (advanced video editing), Capcut (simple video editing) and Illustrator (graphic design).
+  - **Video Editing Softwares**: Advanced proficiency in most of the video-editing softwares (Davinci Resolve, Capcut, Vegas Pro, Premiere, After Effects etc.)
+  - **Creative Strategy**: Leveraging copywriting, storytelling, and consumer psychology to drive viewer engagement and growth.
+
+### 🕵️ Security Fundamentals - Cybersecurity and Defensive Hacking (Soft Skills)
 
   - **Cybersecurity**: Concepts and practices via TryHackMe
 
