@@ -1,10 +1,10 @@
 # Hi, Welcome to my profile! 👋
 
-I am William, a 21 years-old polymath Economics student at University of Brasília, driven by a curiosity for technology and a love for finance and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
+I am William, a 21 years-old polymath student at University of Brasília, driven by a curiosity for technology and a love for finance and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Degree in **Economics** at **University of Brasília**.
+- 🔭 I'm currently pursuing my Degree at **University of Brasília**.
 - 💭 Future Double Graduation on Computer Science and a Maths or Statistics Master Degree 
 - 📝 I am **passionate about CS, FP&A, M&A, Data Analysis/Manipulation, Quantitative Finance and Programming**.
 - 🌐 Currently a Brazillian Citizen, aiming to explore the world and it's beauty.
