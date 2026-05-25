@@ -7,7 +7,7 @@ I am William, a 21 years-old polymath student from Brazil, driven by a curiosity
 - 🔭 I'm currently pursuing my Economics Degree.
 - 💭 Future Double Graduation on Computer Science and a Maths or Statistics Masters 
 - 📝 I am **passionate about CS, FP&A, M&A, Data Analysis/Manipulation, Quantitative Finance and Programming**.
-- 🌐 Currently a Brazillian Citizen, aiming to explore the world and it's beauty.
+- 🌐 Upcoming Quantitative Developer and Portfolio Manager.
 - ✍️ Currently working on building a community of Quants in Brazil!
 
 ## 🧠 Tech Stack
