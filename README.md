@@ -115,8 +115,8 @@ I am William, a 21 years-old polymath student from Brazil, driven by a curiosity
 
 [![Socials](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/williamsoares1/)
-- Connect with me on [Twitter](https://x.com/kyotocanhoto)
+- Connect with me on [Linkedin](https://www.linkedin.com)
+- Connect with me on [Twitter](https://x.com)
 - Read my Medium articles: (*Currently Working*)
 - Visit my website: (*Currently Working*)
 
