@@ -18,7 +18,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 #### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=ocaml,r,raspberrypi,php,c,cs,cpp,tensorflow,mysql,azure,aws,gcp,vue,eclipse,lua)](https://skillicons.dev)
 
-#### Distros I've Used
+#### Distros Used
 [![Distro-hopping](https://skillicons.dev/icons?i=arch,debian,mint,kali,nix,redhat,ubuntu)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
