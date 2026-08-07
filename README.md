@@ -129,7 +129,8 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 
 - Connect with me on [Linkedin](https://www.linkedin.com)
 - Connect with me on [Twitter](https://x.com)
-- Read my Medium articles: (*Currently Working*)
+- Read my Professional Github Pages: (*Currently Working*)
+- Read my Substack Personal Thoughts: (*Currently Working*)
 - Visit my website: (*Currently Working*)
 
 ## Coding & Practice
@@ -139,6 +140,9 @@ LeetCode:
 Getcracked:
 TryHackMe: 
 
+## Finance Certifications & Practice
+
+(*Currently Working*)
 
 ### Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
