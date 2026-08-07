@@ -79,7 +79,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
     - Home Automation (Home Assistant) with IoT device integration
     - Network Services (Pi-hole, VPN, reverse proxies)
   - **Server Administration**: Proficient in Proxmox VE for virtualization, Docker container orchestration, and ZFS storage management.
-  - **Linux Power User**: Daily-driving Arch/Ubuntu with heavy i3wm/ricing customization. Proficient in Bash/Zsh scripting, package management, and systemd service configuration.
+  - **Distro-Hopping, DEs, Tiling and Ricing**: Alongside the distros mentioned before, I've also tried CachyOS, PopOS, Parrot, Gentoo, Fedora, Nobara, for DEs I've used KDE Plasma, Gnome, Cinnamon and XFCE, and for tiling, i3, Sway, Hyprland, QTile and dwm. I like testing the limits of how lightweight, fast or customizable an OS can be, I'm also looking forward to post my ricing dotfiles whenever I feel like they are worth it :)
   - **Network Engineering**: Configuring VLANs, VPNs, and firewall rules for segmented lab environments. Experience with pfSense and WireGuard.
   **Performance Tuning**: Kernel compilation for specific workloads, SSD caching configurations, and memory subsystem optimization.
 
@@ -122,7 +122,6 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 - 📗 Very passionate on reading about **psychology, philosophy, physics, chemistry, history and neuroscience**
 - 🐛 Kind of a bookworm, check my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
 - ❤️ **Hobbies and Passions**: Lego, Travelling, Watches, Porcelain, Handiwork, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
-- 🐧 **Distro-Hopping, DEs, Tiling and Ricing**: Alongside the ones mentioned before, I've also tried CachyOS, PopOS, Parrot, Gentoo, Fedora, Nobara, for DEs I've used KDE Plasma, Gnome, Cinnamon and XFCE, and for tiling, i3, Sway, Hyprland, QTile and dwm. I like testing the limits of how lightweight, fast or customizable an OS can be, I'm also looking forward to post my ricing dotfiles whenever I feel like they are worth it :)
 
 ## 📫 Liked my Profile? Get in Touch!
 
