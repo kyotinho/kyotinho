@@ -133,7 +133,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 - Read my Substack Personal Thoughts: (*Currently Working*)
 - Visit my website: (*Currently Working*)
 
-## Coding & Practice
+## Computer Science Certifiactions & Practice
 
 NeetCode: 
 LeetCode: 
