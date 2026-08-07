@@ -117,12 +117,12 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 
 ## 🏃 Real Life Passions and Skills:
 
-- 🎶 I play Guitar and Drums (not so well if you ask me) 
+- 🎶 I play Guitar and Drums (not so well if you ask me how good am I) 
 - ⌨️ [Type Speed - 81 WPM+, 100% Accuracy](https://imgur.com/a/35x4iZc) (>90-92 Percentile), test made on a regular laptop keyboard (not mechanic), can reach 100+ WPM with the ideal conditions
-- 📗 Very passionate about psychology, philosophy, physics, chemistry, history and neuroscience
+- 📗 Very passionate on reading about **psychology, philosophy, physics, chemistry, history and neuroscience**
 - 🐛 Kind of a bookworm, check my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
-- ❤️ Hobbies and Passions: Lego, Travelling, Watches, Porcelain, Handiwork, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
-- 🐧 Distro-Hopping, DEs, Tiling and Tiling: Alongside the ones mentioned before, I've also tried CachyOS, PopOS, Parrot, Gentoo, Fedora, Nobara, for DEs I've used KDE Plasma, Gnome, Cinnamon and XFCE, and for tiling, i3, Sway, Hyprland, QTile and dwm. I'm also looking forward to post my ricing dotfiles whenever I feel like they are worth it :)
+- ❤️ **Hobbies and Passions**: Lego, Travelling, Watches, Porcelain, Handiwork, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
+- 🐧 **Distro-Hopping, DEs, Tiling and Tiling**: Alongside the ones mentioned before, I've also tried CachyOS, PopOS, Parrot, Gentoo, Fedora, Nobara, for DEs I've used KDE Plasma, Gnome, Cinnamon and XFCE, and for tiling, i3, Sway, Hyprland, QTile and dwm. I like testing the limits of how lightweight or customizable an OS can be, I'm also looking forward to post my ricing dotfiles whenever I feel like they are worth it :)
 
 ## 📫 Liked my Profile? Get in Touch!
 
