@@ -13,10 +13,10 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 ## 🧠 Tech Stack
 
 #### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,py,pycharm,anaconda,sqlite,arch,linux,debian,blender,obsidian,notion,docker,latex,git,github,gmail,discord,bots,discordjs,ai,ps,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,deno,html,py,pycharm,anaconda,sqlite,postgres,linux,windows,neovim,blender,obsidian,md,figma,gmail,notion,docker,latex,git,github,gmail,discord,stackoverflow,robloxstudio,bots,discordjs,ai,ps,pr,ae,visualstudio,vscodium,vscode,idea,pycharm,powershell)](https://skillicons.dev)
 
 #### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=ocaml,c,cs,cpp,tensorflow,mysql,azure,aws,gcp,vue,eclipse,lua)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ocaml,r,raspberrypi,php,c,cs,cpp,tensorflow,mysql,azure,aws,gcp,vue,eclipse,lua)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -96,6 +96,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
   - **Adobe Creative Cloud**: Advanced proficiency in After Effects (motion graphics), Photoshop (image editing/thumbnails), Premiere (advanced video editing), Capcut (simple video editing) and Illustrator (graphic design).
   - **Video Editing Softwares**: Advanced proficiency in most of the video-editing softwares (Davinci Resolve, Capcut, Vegas Pro, Premiere, After Effects etc.)
   - **Creative Strategy**: Leveraging copywriting, storytelling, and consumer psychology to drive viewer engagement and growth.
+  - **3D Graphics and Modeling**: Using 3D Modeling on Blender for Thumbnails, Videos and Rendering.
 
 ### 🕵️ Security Fundamentals - Cybersecurity and Defensive Hacking (Soft Skills)
 
@@ -110,7 +111,16 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 - 🇫🇷 **French** (Busuu and Duolingo Online Language School)
 - 🇨🇳 **Chinese** (Busuu and Duolingo Online Language School)
 - 🇮🇹 **Italian** (Busuu and Duolingo Online Language School)
-  
+
+## 🏃 Real Life Passions and Skills:
+
+- 🎶 I play Guitar and Drums (not so well if you ask me) 
+- 🐧 [Distro-hopping](https://skillicons.dev/icons?i=arch,debian,mint,kali,nix,redhat,ubuntu)
+- ⌨️ [Type Speed - 81 WPM+, 100% Accuracy (>90-92 Percentile)](https://imgur.com/a/35x4iZc), test made on a regular laptop keyboard (not mechanic), can reach 100+ WPM with the ideal conditions
+- 📗 Very passionate about psychology, philosophy, physics, chemistry, history and neuroscience
+- 🐛 Kind of a bookworm, check my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
+- ❤️ Hobbies and Passions: Lego, Travelling, Watches, Porcelain, Handiwork, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
+
 ## 📫 Liked my Profile? Get in Touch!
 
 [![Socials](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
