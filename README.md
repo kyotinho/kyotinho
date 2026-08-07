@@ -1,6 +1,6 @@
 # Hi, Welcome to my profile! 👋
 
-I am William, a 21 years-old polymath student from Brazil 💚💛💙, driven by a curiosity for technology and a love for finance and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
+I am William, a 21 years-old polymath student from Brazil 💚💛💙, driven by a curiosity for technology and a love for finance, quantitative development and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
 
 ## 🚀 About Me
 
