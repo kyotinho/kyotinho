@@ -115,7 +115,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 ## 🏃 Real Life Passions and Skills:
 
 - 🎶 I play Guitar and Drums (not so well if you ask me) 
-- 🐧 [![Distro-hopping](https://skillicons.dev/icons?i=arch,debian,mint,kali,nix,redhat,ubuntu)](https://skillicons.dev)
+- 🐧Distro-Hopping: Distros I've used [![Distro-hopping](https://skillicons.dev/icons?i=arch,debian,mint,kali,nix,redhat,ubuntu)](https://skillicons.dev)
 - ⌨️ [Type Speed - 81 WPM+, 100% Accuracy](https://imgur.com/a/35x4iZc) (>90-92 Percentile), test made on a regular laptop keyboard (not mechanic), can reach 100+ WPM with the ideal conditions
 - 📗 Very passionate about psychology, philosophy, physics, chemistry, history and neuroscience
 - 🐛 Kind of a bookworm, check my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
