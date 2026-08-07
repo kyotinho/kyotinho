@@ -18,6 +18,9 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 #### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=ocaml,r,raspberrypi,php,c,cs,cpp,tensorflow,mysql,azure,aws,gcp,vue,eclipse,lua)](https://skillicons.dev)
 
+#### Distros I've Used
+[![Distro-hopping](https://skillicons.dev/icons?i=arch,debian,mint,kali,nix,redhat,ubuntu)](https://skillicons.dev)
+
 ## 🌱 Currently Exploring
 
   - Applying AI and Machine Learning to quantitative finance problems using libraries like **Qlib** and **Scikit-learn**.
@@ -115,11 +118,11 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 ## 🏃 Real Life Passions and Skills:
 
 - 🎶 I play Guitar and Drums (not so well if you ask me) 
-- 🐧Distro-Hopping: Distros I've used [![Distro-hopping](https://skillicons.dev/icons?i=arch,debian,mint,kali,nix,redhat,ubuntu)](https://skillicons.dev)
 - ⌨️ [Type Speed - 81 WPM+, 100% Accuracy](https://imgur.com/a/35x4iZc) (>90-92 Percentile), test made on a regular laptop keyboard (not mechanic), can reach 100+ WPM with the ideal conditions
 - 📗 Very passionate about psychology, philosophy, physics, chemistry, history and neuroscience
 - 🐛 Kind of a bookworm, check my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
 - ❤️ Hobbies and Passions: Lego, Travelling, Watches, Porcelain, Handiwork, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
+- 🐧 Distro-Hopping, DEs, Tiling and Tiling: Alongside the ones mentioned before, I've also tried CachyOS, PopOS, Parrot, Gentoo, Fedora, Nobara, for DEs I've used KDE Plasma, Gnome, Cinnamon and XFCE, and for tiling, i3, Sway, Hyprland, QTile and dwm. I'm also looking forward to post my ricing dotfiles whenever I feel like they are worth it :)
 
 ## 📫 Liked my Profile? Get in Touch!
 
