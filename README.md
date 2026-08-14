@@ -125,7 +125,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 
 ## 📫 Liked my Profile? Get in Touch!
 
-[![Socials](https://skillicons.dev/icons?i=linkedin,twitter, instagram)](https://skillicons.dev)
+[![Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram)](https://skillicons.dev)
 
 - Connect with me on [Linkedin](https://www.linkedin.com)
 - Connect with me on [Twitter](https://x.com)
