@@ -65,7 +65,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 
   - **FP&A**: Financial planning and analysis
   - **Accounting Principles**: Core accounting concepts
-  - **Entrepreneurship**: Alura online school of technological and business education in Brazil
+  - **Entrepreneurship**: Alura online school of technological and business education in Brazil, aswell as academic and practical business knowledge as a selfmade entrepreneur
   - **Marketing & Sales**: Strategic planning and execution
   - **Leadership**: Team management and project leadership
   - **On-going Major Degree in Economics (plus future plans on a math master degree)**
