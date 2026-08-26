@@ -45,7 +45,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 - 🌟 **President of the Academic Council of Economics in University of Brasilia** (2024) - Contributed to build a better community inside of the academic environment.
 - 🏆 **Top-10 on BTG Pactual Investment Banking Trading Championship** at 20 years-old (2025).
 - 🐚 Current **Leader of Selfmade Brazilian Developers and Development Students Commmunity** (2025).
-- 🧑‍🏫 Founder of a **Free Public Discord Fundamental-School, Middle-School and University Study Library** destined to universal cutting edge opportunities for students, free, forever (2021).
+- 🧑‍🏫 Founder of a **Free Public Discord Fundamental-School, Middle-School and University Portuguese Study Library** destined to universal cutting edge opportunities for students, free, forever (2021), you can join it on my website.
 - 🧮 Ex-member of a **Financial Consulting and Performance Tracker Startup** that used **GPT's Model with Excel and Excel + PowerBI dashboards to help companies along with Financial Planning and Analysis** (2024).
 - 💻 **Ex-member of University of Brasília's Junior Company of Economics**
 - And much more (...)
