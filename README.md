@@ -83,7 +83,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
   - **Network Engineering**: Configuring VLANs, VPNs, and firewall rules for segmented lab environments. Experience with pfSense and WireGuard.
   **Performance Tuning**: Kernel compilation for specific workloads, SSD caching configurations, and memory subsystem optimization.
 
-### 🧮 Mathematical Economics & Quantitative Theory (Intermediate Skills)
+### 🧮 Mathematical Economics & Quantitative Theory (Intermediate and Soft Skills)
 
   - **Calculus & Analysis**: Single and multivariable calculus, sequences, series, and convergence analysis.
   - **Linear Algebra**: Vector spaces, linear transformations, eigenvalues, and quadratic forms.
@@ -92,8 +92,9 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
   - **Probability & Statistics**: Probability distributions, limit theorems (LLN/CLT), and Maximum Likelihood Estimation.
   - **Advanced Theory**: Topology and Real Analysis applied to Fixed Point Theorems and General Equilibrium.
   - **Econometrics**: Matrix-based regression analysis, Gauss-Markov assumptions, and statistical inference.
+  - **Physics and Chemistry**: Intermediate Level for Physics and Chemistry.
 
-### 🎥 Content Creation & Digital Media (Creative Hobby)
+### 🎥 Content Creation & Digital Media (Creative Hobby and Side Skill)
 
   - **Video Production**: End-to-end video creation, editing, and publishing as a YouTube, Tiktok and Instagram creator (over 10M views in total). Via: [Imgur](https://imgur.com/a/WGx7rV0)
   - **Adobe Creative Cloud**: Advanced proficiency in After Effects (motion graphics), Photoshop (image editing/thumbnails), Premiere (advanced video editing), Capcut (simple video editing) and Illustrator (graphic design).
@@ -103,7 +104,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 
 ### 🕵️ Security Fundamentals - Cybersecurity and Defensive Hacking (Soft Skills)
 
-  - **Cybersecurity**: Concepts and practices via TryHackMe
+  - **Cybersecurity and Reverse Engineering**: Concepts and practices via TryHackMe, 
 
 ## 💬 Current languages that I am proficient in:
 
