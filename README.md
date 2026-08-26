@@ -45,7 +45,7 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 - 🌟 **President of the Academic Council of Economics in University of Brasilia** (2024) - Contributed to build a better community inside of the academic environment.
 - 🏆 **Top-10 on BTG Pactual Investment Banking Trading Championship** at 20 years-old (2025).
 - 🐚 Current **Leader of Selfmade Brazilian Developers and Development Students Commmunity** (2025).
-- 🧑‍🏫 Founder of a **Free Public Discord Fundamental-School, Middle-School and University Portuguese Study Library** destined to universal cutting edge opportunities for students, free, forever (2021), you can join it on my website.
+- 🧑‍🏫 Founder of a **Free Public Discord Fundamental-School, Middle-School and University Portuguese Study Library** destined to universal cutting edge opportunities for students, free, forever (2021), you can join it by DMing me on Discord.
 - 🧮 Ex-member of a **Financial Consulting and Performance Tracker Startup** that used **GPT's Model with Excel and Excel + PowerBI dashboards to help companies along with Financial Planning and Analysis** (2024).
 - 💻 **Ex-member of University of Brasília's Junior Company of Economics**
 - And much more (...)
@@ -123,24 +123,26 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 - 📗 Very passionate on reading about **psychology, philosophy, physics, chemistry, history and neuroscience**
 - 🐛 Kind of a bookworm, check my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
 - ❤️ **Hobbies and Passions**: Lego, Travelling, Watches, Porcelain, Handiwork, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
+- 🧠 [MindBuilding](https://discord.com/invite/brain): Scientifically backed mind workouts to train smarter, less distracted, and less impulsive cognitive brain skills
 
 ## 📫 Liked my Profile? Get in Touch!
 
-[![Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram)](https://skillicons.dev)
+[![Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord)](https://skillicons.dev)
 
-- Connect with me on [Linkedin](https://www.linkedin.com)
-- Connect with me on [Twitter](https://x.com)
-- Connect with me on [Instagram](https://instagram.com)
+- Connect with me on [Discord](https://discord.com/users/483406489533415444)
+- Connect with me on Linkedin: (*Currently Working*)
+- Connect with me on Twitter: (*Currently Working*)
+- Connect with me on Instagram: (*Currently Working*)
 - Read my Professional Github Pages: (*Currently Working*)
 - Read my Substack Personal Thoughts: (*Currently Working*)
 - Visit my website: (*Currently Working*)
 
 ## Computer Science Certifiactions & Practice
 
-NeetCode: 
-LeetCode: 
-Getcracked:
-TryHackMe: 
+NeetCode: (*Currently Working*)
+LeetCode: (*Currently Working*)
+Getcracked: (*Currently Working*)
+TryHackMe: (*Currently Working*)
 
 ## Finance Certifications & Practice
 
