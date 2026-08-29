@@ -1,7 +1,7 @@
 # Hi, Welcome to my profile! 👋
 
 <p align="center">
-<img width="374" height="316" alt="yoru-lockheed" src="https://github.com/user-attachments/assets/d4136198-8d98-4a70-a140-b3c1353de337" />
+<img width="498" height="281" alt="yoru-chainsaw-man" src="https://github.com/user-attachments/assets/1d9b9d24-e692-4a1f-a698-99547e33d4e0" />
 </p>
 
 I am William, a 21 years-old polymath and self teaching student from Brazil 💚💛💙, driven by a curiosity for technology and a love for finance, quantitative development and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
