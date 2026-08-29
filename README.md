@@ -1,7 +1,7 @@
 # Hi, Welcome to my profile! 👋
 
 <p align="center">
-<img width="546" height="308" alt="inoitoh-yoru-chainsaw-man-anime-portrait-red-eyes-hd-wallpaper-preview" src="https://github.com/user-attachments/assets/c23d0897-a2c5-4af6-91d7-56640df5ef2b" />
+<img width="600" height="338" alt="inoitoh-yoru-chainsaw-man-anime-portrait-red-eyes-hd-wallpaper-preview" src="https://github.com/user-attachments/assets/c23d0897-a2c5-4af6-91d7-56640df5ef2b" />
 </p>
 
 I am William, a 21 years-old polymath and self teaching student from Brazil 💚💛💙, driven by a curiosity for technology and a love for finance, quantitative development and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
