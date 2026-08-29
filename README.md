@@ -1,7 +1,7 @@
 # Hi, Welcome to my profile! 👋
 
 <p align="center">
-<img width="498" height="281" alt="you_hovered_your_mouse_now_you_are_reading_the_name_of_this" src="https://github.com/user-attachments/assets/139f7183-2785-4546-a3cb-1857c25b2ba4">
+<img width="1920" height="1080" alt="you_hovered_your_mouse_now_you_are_reading_the_name_of_this" src="https://github.com/user-attachments/assets/139f7183-2785-4546-a3cb-1857c25b2ba4">
 </p>
 
 I am William, a 21 years-old polymath and self teaching student from Brazil 💚💛💙, driven by a curiosity for technology and a love for finance, quantitative development and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
