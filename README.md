@@ -112,13 +112,13 @@ I am William, a 21 years-old polymath and self teaching student from Brazil 💚
 
 ## 💬 Current languages that I am proficient in:
 
-- 🇧🇷 **Portuguese** (Native)
-- 🇺🇸 **English** (112 TOEFL Score + CCAA Language School Certificate)
-- 🇪🇸 **Spanish** (CCAA Language School Certificate)
-- 🇩🇪 **German** (Busuu and Duolingo Online Language School)
-- 🇫🇷 **French** (Busuu and Duolingo Online Language School)
-- 🇨🇳 **Chinese** (Busuu and Duolingo Online Language School)
-- 🇮🇹 **Italian** (Busuu and Duolingo Online Language School)
+- 🇧🇷 **Portuguese** C2 (Native)
+- 🇺🇸 **English** C2 (112 TOEFL Score + CCAA Language School Certificate)
+- 🇪🇸 **Spanish** C2 (CCAA Language School Certificate)
+- 🇩🇪 **German** B2 (Busuu and Duolingo Online Language School)
+- 🇫🇷 **French** B1 (Busuu and Duolingo Online Language School)
+- 🇨🇳 **Chinese** B1 (Busuu and Duolingo Online Language School)
+- 🇮🇹 **Italian** B1 (Busuu and Duolingo Online Language School)
 
 ## 🏃 Real Life Passions and Skills:
 
