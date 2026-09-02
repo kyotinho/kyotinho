@@ -4,12 +4,12 @@
 <img width="600" height="338" alt="inoitoh-yoru-chainsaw-man-anime-portrait-red-eyes-hd-wallpaper-preview" src="https://github.com/user-attachments/assets/c23d0897-a2c5-4af6-91d7-56640df5ef2b" />
 </p>
 
-I am William, a 21 years-old polymath and self teaching student from Brazil 💚💛💙, driven by a curiosity for technology and a love for finance, quantitative development and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
+I am William, a 22 years-old undergrad polymath and self teaching student from Brazil 💚💛💙, driven by a curiosity for technology and a love for finance, quantitative development and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my **Economics** Degree.
-- 💭 Studying for a Double Graduation on Computer Science and a PhD, aswell as a Corporate Finance MBA and/or a Maths Master Degree
+- 🔭 I'm currently pursuing my **Computer Science** Degree.
+- 💭 Studying for a Double Graduation on Economics & Computer Science and a PhD, aswell as a Corporate Finance MBA and/or a Maths Master Degree
 - 📝 I am **passionate about CS, FP&A, M&A, Data Analysis/Manipulation, Quantitative Finance and Programming**.
 - 🌐 Upcoming Quantitative Developer and Portfolio Manager.
 - ✍️ Currently working on building a community of Quants in Brazil!
@@ -150,6 +150,8 @@ TryHackMe: (*Currently Working*)
 
 ## Finance Certifications & Practice
 
+Want to Get (Finance): CFA, CFP, FRM, PFS, CQF
+Want to Get (Computer Science): Cisco Certified Internetwork Expert, CompTIA A+, CompTIA Security+, The EC-Council, CompTIA Network+, Computer Hacking Forensic Investigator (CHFI), aswell as AWS, Microsoft and ISC2
 (*Currently Working*)
 
 ### Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
