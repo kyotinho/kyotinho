@@ -151,6 +151,7 @@ TryHackMe: (*Currently Working*)
 ## Finance Certifications & Practice
 
 Want to Get (Finance): CFA, CFP, FRM, PFS, CQF
+
 Want to Get (Computer Science): Cisco Certified Internetwork Expert, CompTIA A+, CompTIA Security+, The EC-Council, CompTIA Network+, Computer Hacking Forensic Investigator (CHFI), aswell as AWS, Microsoft and ISC2
 (*Currently Working*)
 
