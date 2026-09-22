@@ -100,7 +100,7 @@ I am William, a 22 years-old undergrad polymath and self teaching student from B
 
 ### 🎥 Content Creation & Digital Media (Creative Hobby and Side Skill)
 
-  - **Video Production**: End-to-end video creation, editing, and publishing as a YouTube, Tiktok and Instagram creator (over 10M views, over 20 videos with 100k+ views, 100.000+ hours of view in total). Via: [Imgur](https://imgur.com/a/Tm6q3tn)
+  - **Video Production**: End-to-end video creation, editing, and publishing as a YouTube, Tiktok and Instagram creator (over 10M views, over 50 videos with 100k+ views, 100.000+ hours of view in total). Via: [Imgur](https://imgur.com/a/Tm6q3tn)
   - **Adobe Creative Cloud**: Advanced proficiency in After Effects (motion graphics), Photoshop (image editing/thumbnails), Premiere (advanced video editing), Capcut (simple video editing) and Illustrator (graphic design).
   - **Video Editing Softwares**: Advanced proficiency in most of the video-editing softwares (Davinci Resolve, Capcut, Vegas Pro, Premiere, After Effects etc.)
   - **Creative Strategy**: Leveraging copywriting, storytelling, and consumer psychology to drive viewer engagement and growth.
