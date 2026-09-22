@@ -132,8 +132,8 @@ I am William, a 22 years-old undergrad polymath and self teaching student from B
 
 ## 🤔 Dreams and Life Objectives
 
-- 📚 Have a public library of my own possession, free for everybody who wants to learn, aswell as my own studies
-- 📖 Publish my own book about things that I love and publish online articles about my thoughts and interesting things
+- 📚 Have a public library of my own possession, free for everybody who wants to learn, aswell as my own studies archived
+- 📖 Publish my own book about things that I love and life philosophy, publish online articles about my thoughts and interesting things
 - 🎥 Live along my passions of content creation, teaching/learning, economics, computer science, routine and hobbies 
 - 🏢 Become a successfully selfmade entrepreneur, have my own business(es) and be an investor of values
 - 🤓 Becoming a better Quantitative Developer and Financial Analyst everyday! Even though it could be quite hard for a country without a big market for the area, we have to create what we once dreamed about!
