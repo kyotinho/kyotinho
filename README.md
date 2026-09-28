@@ -20,7 +20,7 @@ I am William, a 22 years-old undergrad polymath and self teaching student from B
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,deno,html,py,pycharm,anaconda,sqlite,postgres,linux,windows,neovim,blender,obsidian,md,figma,gmail,notion,docker,latex,git,github,gmail,discord,stackoverflow,robloxstudio,bots,discordjs,ai,ps,pr,ae,visualstudio,vscodium,vscode,idea,pycharm,powershell)](https://skillicons.dev)
 
 #### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=ocaml,r,raspberrypi,php,c,cs,cpp,tensorflow,mysql,azure,aws,gcp,vue,eclipse,lua)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ocaml,r,raspberrypi,php,c,cs,cpp,rust,tensorflow,mysql,azure,aws,gcp,vue,eclipse,lua)](https://skillicons.dev)
 
 #### Distros Used
 [![Distro-hopping](https://skillicons.dev/icons?i=arch,debian,mint,kali,nix,redhat,ubuntu)](https://skillicons.dev)
