@@ -126,7 +126,7 @@ I am William, a 22 years-old undergrad polymath and self teaching student from B
 - ⌨️ [Type Speed - 81 WPM+, 100% Accuracy](https://imgur.com/a/35x4iZc) (>90-92 Percentile), test made on a regular laptop keyboard (not mechanic), can reach 100+ WPM with the ideal conditions
 - 📗 Very passionate on reading about **psychology, philosophy, physics, chemistry, history and neuroscience**
 - 🐛 Kind of a bookworm, check my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
-- ❤️ **Hobbies and Passions**: Lego, Travelling, Watches, Porcelain, Handiwork, Origami and the geometry behind it, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
+- ❤️ **Hobbies and Passions**: Lego, Travelling, Watches, Porcelain, Botanics, Handiwork, Origami and the geometry behind it, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
 - 🧠 [MindBuilding](https://discord.com/invite/brain): Scientifically backed mind workouts to train smarter, less distracted, and less impulsive cognitive brain skills
 - 💭 Very into Socionics and the study of personality, aswell as psychology and neuroscience, about me: entj-t | 9w1 | so/sx | 925 | LIE | RLOEI <- I could talk about it for hours!
 
