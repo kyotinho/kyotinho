@@ -1,168 +1,207 @@
-# Hi, Welcome to my profile! 👋
+# Hi, welcome to my profile! 👋
 
 <p align="center">
-<img width="600" height="338" alt="inoitoh-yoru-chainsaw-man-anime-portrait-red-eyes-hd-wallpaper-preview" src="https://github.com/user-attachments/assets/c23d0897-a2c5-4af6-91d7-56640df5ef2b" />
+<img width="600" height="338" alt="Anime portrait banner" src="https://github.com/user-attachments/assets/c23d0897-a2c5-4af6-91d7-56640df5ef2b"/>
 </p>
 
-I am William, a 22 years-old undergrad polymath and self teaching student from Brazil 💚💛💙, driven by a curiosity for technology and a love for finance, quantitative development and computer science. My journey involves delving into the world of quantitative finance, data manipulation, optimization & automation, development, research and problem solving, exploring new ideas, and sharing my insights with the world.
+I’m William, a 21-year-old undergraduate and self-taught learner from Brazil 💚💛💙, with broad, polymathic interests and a strong curiosity about technology, finance, quantitative development, and computer science. I enjoy exploring quantitative finance, data analysis, optimization, automation, software development, research, and sharing what I learn along the way.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my **Computer Science** Degree.
-- 💭 Studying for a Double Graduation on Economics & Computer Science and a PhD, aswell as a Corporate Finance MBA and/or a Maths Master Degree
-- 📝 I am **passionate about CS, FP&A, M&A, Data Analysis/Manipulation, Quantitative Finance and Programming**.
-- 🌐 Upcoming Quantitative Developer and Portfolio Manager.
-- ✍️ Currently working on building a community of Quants in Brazil!
+- 🔭 I’m currently pursuing undergraduate studies in **Computer Science and Economics**.
+- 💭 My longer-term academic interests include graduate study in **Economics, Computer Science and Maths**, an **MBA in Business or Quantitative Finance**, and potentially a **PhD**.
+- 📝 I’m passionate about **computer science, FP&A, M&A, data analysis, quantitative finance, and programming**.
+- 🌐 Aspiring **Quantitative Developer** and **Portfolio Manager**.
+- ✍️ Working to build a bigger community for quantitative finance enthusiasts in Brazil!
 
 ## 🧠 Tech Stack
 
-#### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,deno,html,py,pycharm,anaconda,sqlite,postgres,linux,windows,neovim,blender,obsidian,md,figma,gmail,notion,docker,latex,git,github,gmail,discord,stackoverflow,robloxstudio,bots,discordjs,ai,ps,pr,ae,visualstudio,vscodium,vscode,idea,pycharm,powershell)](https://skillicons.dev)
+#### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,deno,html,py,pycharm,anaconda,sqlite,postgres,linux,windows,neovim,blender,obsidian,md,figma,notion,docker,latex,git,github,gmail,discord,stackoverflow,robloxstudio,bots,discordjs,ai,ps,pr,ae,visualstudio,vscodium,vscode,idea,powershell)](https://skillicons.dev)
 
 #### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=ocaml,r,raspberrypi,php,c,cs,cpp,rust,tensorflow,mysql,azure,aws,gcp,vue,eclipse,lua)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ocaml,perl,r,raspberrypi,php,c,cs,cpp,rust,tensorflow,mysql,azure,aws,gcp,vue,eclipse,lua)](https://skillicons.dev)
 
 #### Distros Used
 [![Distro-hopping](https://skillicons.dev/icons?i=arch,debian,mint,kali,nix,redhat,ubuntu)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-  - Applying AI and Machine Learning to quantitative finance problems using libraries like **Qlib** and **Scikit-learn**.
-  - Building **financial data pipelines** and **backtesting engines in Python** to validate **trading strategies**.
-  - **Optimizing computational power with C++ for high-frequency trading algorithms**.
-  - Developing **interactive financial dashboards** and **data visualizations** with **JavaScript**, **Front-End Languages** and **React**.
-  - Deepening my knowledge in **financial econometrics** and **time series analysis** for model development.
-  - Strengthening my foundation in **stochastic calculus** and **statistical arbitrage** to build more robust financial models and risk management strategies.
+- 🤖 Applying **machine learning** to quantitative finance using **Qlib, scikit-learn**, and predictive modeling techniques.
+- 🏗️ Building **financial data pipelines and Python backtesting engines** for systematic trading research and strategy validation.
+- ⚡ Exploring **C++ performance optimization** for computationally intensive financial models and low-latency trading systems.
+- 📊 Developing **interactive financial dashboards and visualizations** using **JavaScript, React**, and modern front-end technologies.
+- 📈 Deepening my knowledge of **financial econometrics, time-series analysis, and statistical modeling** for quantitative research.
+- 🧮 Strengthening my foundations in **stochastic calculus, statistical arbitrage, and quantitative risk modeling** to develop more robust financial models and systematic strategies.
 
-## 🪷 Interest Areas:
+## 🪷 Career Interest Areas
 
-  - Architecting scalable **data pipelines** for **real-time market data**.
-  - Learning **Apache Spark** for **large-scale financial dataset processing**.
-  - Diving into **Qlib**'s workflow for **full-cycle quant research** (from data to strategy).
-  - Exploring **deep learning** techniques for **algorithmic trading**.
-  - Developing interactive **Monte Carlo simulations** for **risk analysis**.
-  - Using **Python** and **JS** to automate financial report generation and data aggregation.
-  - Currently learning low-cost **high-frequency operations with C++**
-    
- ## 🏆 Achievements
+- 📈 **Quantitative Research & Strategy Development**: Developing systematic investment strategies through statistical modeling, factor investing, alpha research and backtesting using frameworks like **Qlib**.
+- 🧮 **Mathematical Finance & Optimization**: Applying probability, statistics, linear algebra, numerical methods, and optimization to financial modeling, asset pricing, and derivatives valuation.
+- 💹 **Portfolio Management & Risk Analytics**: Exploring portfolio construction, asset allocation, diversification, risk-adjusted returns, Monte Carlo simulations, and stress testing.
+- 📊 **Financial Economics & Econometrics**: Applying my Economics studies to financial markets, macroeconomic analysis, time-series modeling, factor models, and empirical asset pricing.
+- ⚡ **High-Performance Computing**: Using **C++** for computational optimization, memory-efficient algorithms, parallel processing, and low-latency financial systems.
+- 🏗️ **Financial Data Engineering**: Building scalable market data pipelines and exploring **SQL, Apache Spark, distributed computing, and real-time data processing**.
+- 🤖 **Machine Learning & Computational Finance**: Exploring statistical learning, deep learning, predictive modeling, and market regime detection using **Python, scikit-learn, and Qlib**.
+- 🔬 **Backtesting & Strategy Validation**: Developing reproducible research workflows that account for transaction costs, slippage, liquidity, out-of-sample validation, and common backtesting biases.
+- 🖥️ **Computational Optimization & Research Tooling**: Combining **Python for quantitative research, C++ for performance-critical applications, SQL for data management, and JavaScript for interactive financial dashboards**.
+- 📉 **Market Microstructure & Algorithmic Execution**: Studying order books, liquidity, market impact, transaction costs, and execution quality to understand their effects on trading strategies.
 
-- 🌟 **President of the Academic Council of Economics in University of Brasilia** (2024) - Contributed to build a better community inside of the academic environment.
-- 🏆 **Top-10 on BTG Pactual Investment Banking Trading Championship** at 20 years-old (2025).
-- 🐚 Current **Leader of Selfmade Brazilian Developers and Development Students Commmunity** (2025).
-- 🧑‍🏫 Founder of a **Free Public Discord Fundamental-School, Middle-School and University Portuguese Study Library** destined to universal cutting edge opportunities for students, free, forever (2021), you can join it by DMing me on Discord.
-- 🧮 Ex-member of a **Financial Consulting and Performance Tracker Startup** that used **GPT's Model with Excel and Excel + PowerBI dashboards to help companies along with Financial Planning and Analysis** (2024).
-- 💻 **Ex-member of University of Brasília's Junior Company of Economics**
-- And much more (...)
+## 🏆 Academic Achievements
 
-## 🛠️ Other Technical Skills & Domains (Apart from Coding)
+- 🌟 **President of the Economics Academic Council at the University of Brasília** (2024): Helped strengthen the university’s academic community.
+- 🏆 **Top-10 finish in the BTG Pactual Investment Banking Trading Championship** at age 20 (2025).
+- 🐚 **Community leader** of the Selfmade Brazilian Developers and Development Students Community (since 2025).
+- 🧑‍🏫 Founded a **free, public Discord-based study library** in 2021, sharing Portuguese-language learning resources for students from elementary school through university. The community is intended to remain free; message me on Discord to join.
+- 🧑‍🎓 Class representative and student participant in school decision-making at the middle- and high-school levels (2019, 2021–2023).
+- 🧮 Former member of a **financial consulting and performance-tracking startup** (2024) that used GPT-based models, Excel, and Power BI dashboards to support companies with financial planning and analysis.
+- 💻 Former member of the **University of Brasília’s Junior Company of Economics** (2024–2025).
+- 🤝 **Project lead and research contributor** on a quantitative hedge-fund replication project (2026), supporting planning, research, and documentation. See my Jupyter notebook about “Omnicron.”
+- …and other academic, research, and community projects.
 
-###  📊 Data & Analytics (Corporate Skill)
+## 🛠️ Technical Skills & Other Domains
 
-  - **Dashboard & Visualization Design**: Crafting intuitive and actionable KPI dashboards in Tableau and Power BI for executive and operational reporting.
-  - **Data Storytelling**: Translating complex data findings into clear, compelling narratives for technical and non-technical audiences.
-  - **BI & Visualization Tools**: **Tableau, Power BI, Excel (Advanced)**
-  - **Database Management**: SQL for data querying and analysis
-  - **Big Data Processing**: Apache Spark for large-scale financial datasets
-  - **Quantitative Research**: Qlib workflow implementation
+### 📊 Data & Analytics
 
-###  💼 Business & Finance (Hard Skills)
+- 📈 **Dashboard & Visualization Design**: Creating intuitive, actionable KPI dashboards for executive reporting, operational monitoring, and business performance analysis.
+- 📖 **Data Storytelling**: Translating complex analytical findings into clear, compelling narratives for technical and non-technical audiences.
+- 🛠️ **Business Intelligence & Visualization Tools**: **Tableau, Power BI, and advanced Excel** for reporting, data analysis, and decision support.
+- 🗄️ **Database Management & Querying**: Using **SQL** for data retrieval, transformation, aggregation, and analytical workflows.
+- ⚡ **Big Data Processing**: Exploring **Apache Spark** for distributed processing and large-scale financial datasets.
+- 📉 **Quantitative Research Infrastructure**: Working with **Qlib** workflows for financial data processing, experimentation, and systematic strategy research.
 
-  - **FP&A**: Financial planning and analysis
-  - **Accounting Principles**: Core accounting concepts
-  - **Entrepreneurship**: Alura online school of technological and business education in Brazil, aswell as academic and practical business knowledge as a selfmade entrepreneur
-  - **Marketing & Sales**: Strategic planning and execution
-  - **Leadership**: Team management and project leadership
-  - **On-going Major Degree in Economics (plus future plans on a math master degree)**
+### 💼 Business & Finance
 
-### 💻 Advanced IT & Systems Expertise (Hard Skills)
+- 📊 **Financial Planning & Analysis (FP&A)**: Financial planning, budgeting, forecasting, variance analysis and performance tracking.
+- 🧾 **Accounting Principles**: Core accounting concepts, financial statements, and business reporting fundamentals.
+- 🚀 **Entrepreneurship & Business Development**: Academic and practical business knowledge, technology entrepreneurship and business education through Alura.
+- 📣 **Marketing & Sales**: Strategic planning, copywriting, sales processes, and customer engagement.
+- 🤝 **Leadership & Project Management**: Team coordination, project planning, collaborative execution and strategic decision-making.
+- 🎓 **Economics**: Ongoing undergraduate studies in Economics, with future academic interests in mathematical economics and graduate-level mathematics.
 
-  - **Hardware Architecture**: Building high-performance workstations and servers from component selection to thermal optimization. Special interest in HEDT platforms and server-grade hardware for data-intensive workloads. 
-  - **Self-Hosting & Homelab**: Deploying and maintaining self-hosted services including:
-    - Media Servers (Jellyfin/Plex) with automated content pipelines
-    - File Sync & Backup (Nextcloud, Syncthing) with RAID redundancy
-    - Home Automation (Home Assistant) with IoT device integration
-    - Network Services (Pi-hole, VPN, reverse proxies)
-  - **Server Administration**: Proficient in Proxmox VE for virtualization, Docker container orchestration, and ZFS storage management.
-  - **Distro-Hopping, DEs, Tiling and Ricing**: Alongside the distros mentioned before, I've also tried CachyOS, PopOS, Parrot, Gentoo, Fedora, Nobara, for DEs I've used KDE Plasma, Gnome, Cinnamon and XFCE, and for tiling, i3, Sway, Hyprland, QTile and dwm. I like testing the limits of how lightweight, fast or customizable an OS can be, I'm also looking forward to post my dotfiles whenever I feel like they are worth it :)
-  - **Network Engineering**: Configuring VLANs, VPNs, and firewall rules for segmented lab environments. Experience with pfSense and WireGuard.
-  **Performance Tuning**: Kernel compilation for specific workloads, SSD caching configurations, and memory subsystem optimization.
+### 💻 Advanced IT & Systems Expertise
 
-### 🧮 Mathematical Economics & Quantitative Theory (Intermediate and Soft Skills)
+- 🖥️ **Hardware Architecture**: Building and configuring high-performance workstations and servers, from component selection to thermal optimization. I’m particularly interested in **HEDT platforms, server-grade hardware and data-intensive workloads**.
+- 🏠 **Self-Hosting & Homelab**: Deploying and maintaining self-hosted services, including:
+  - **Media Servers**: Jellyfin/Plex and automated media workflows.
+  - **File Synchronization & Backups**: Nextcloud, Syncthing and redundant storage configurations.
+  - **Home Automation**: Home Assistant and IoT integrations.
+  - **Network Services**: Pi-hole, VPNs and reverse proxies.
+- 🐳 **Virtualization & Server Administration**: Working with **Proxmox VE, Docker, and ZFS** for virtualization, container management, and storage administration.
+- 🐧 **Linux Ecosystems & Customization**: Exploring Linux distributions, desktop environments, and tiling window managers, with an interest in system performance, lightweight configurations and desktop ricing. Looking forward to sharing my dotfiles!
+- 🌐 **Network Engineering**: Configuring VLANs, VPNs, and firewall rules for segmented lab environments, with experience using **pfSense and WireGuard**.
+- ⚙️ **System Performance Tuning**: Exploring kernel compilation, SSD caching, memory subsystem optimization and workload-specific performance improvements.
 
-  - **Calculus & Analysis**: Single and multivariable calculus, sequences, series, and convergence analysis.
-  - **Linear Algebra**: Vector spaces, linear transformations, eigenvalues, and quadratic forms.
-  - **Mathematical Optimization**: Static and dynamic optimization (Lagrange, Kuhn-Tucker), and Comparative Statics.
-  - **Dynamic Systems**: Differential (ODE) and Difference Equations applied to economic modeling.
-  - **Probability & Statistics**: Probability distributions, limit theorems (LLN/CLT), and Maximum Likelihood Estimation.
-  - **Advanced Theory**: Topology and Real Analysis applied to Fixed Point Theorems and General Equilibrium.
-  - **Econometrics**: Matrix-based regression analysis, Gauss-Markov assumptions, and statistical inference.
-  - **Physics and Chemistry**: Intermediate Level for Physics and Chemistry.
+### 🧮 Mathematical Economics & Quantitative Theory
 
-### 🎥 Content Creation & Digital Media (Creative Hobby and Side Skill)
+- 📐 **Calculus & Mathematical Analysis**: Single and multivariable calculus, sequences, series, limits, and convergence.
+- 🔢 **Linear Algebra**: Vector spaces, linear transformations, eigenvalues and quadratic forms.
+- 🎯 **Mathematical Optimization**: Static and dynamic optimization, Lagrange multipliers, Karush–Kuhn–Tucker (KKT) conditions, and comparative statics.
+- 🔄 **Dynamic Systems**: Ordinary differential equations (ODEs), difference equations, and applications to economic modeling.
+- 🎲 **Probability & Statistics**: Probability distributions, limit theorems, the Law of Large Numbers (LLN), the Central Limit Theorem (CLT), and maximum likelihood estimation.
+- 🧠 **Real Analysis & Mathematical Economics**: Topology, real analysis, fixed-point theorems, and their applications to general equilibrium theory.
+- 📊 **Econometrics & Statistical Inference**: Matrix-based regression, Gauss–Markov assumptions, parameter estimation, and statistical inference.
+- ⚛️ **Physics & Chemistry**: Intermediate-level knowledge of physical sciences and scientific reasoning.
 
-  - **Video Production**: End-to-end video creation, editing, and publishing as a YouTube, Tiktok and Instagram creator (over 10M views, over 50 videos with 100k+ views, 100.000+ hours of view in total). Via: [Imgur](https://imgur.com/a/Tm6q3tn)
-  - **Adobe Creative Cloud**: Advanced proficiency in After Effects (motion graphics), Photoshop (image editing/thumbnails), Premiere (advanced video editing), Capcut (simple video editing) and Illustrator (graphic design).
-  - **Video Editing Softwares**: Advanced proficiency in most of the video-editing softwares (Davinci Resolve, Capcut, Vegas Pro, Premiere, After Effects etc.)
-  - **Creative Strategy**: Leveraging copywriting, storytelling, and consumer psychology to drive viewer engagement and growth.
-  - **3D Graphics and Modeling**: Using 3D Modeling on Blender for Thumbnails, Videos and Rendering.
+### 🎥 Content Creation & Digital Media
 
-### 🕵️ Security Fundamentals - Cybersecurity and Defensive Hacking (Soft Skills)
+- 🎬 **Video Production & Audience Development**: End-to-end content creation, editing and publishing for **YouTube, TikTok and Instagram**, with over **10 million views, 50 videos exceeding 100,000 views each, and 100,000+ hours of watch time**. [Portfolio and results](https://imgur.com/a/Tm6q3tn).
+- 🎨 **Adobe Creative Cloud**: After Effects for motion graphics, Photoshop for image editing and thumbnails, Premiere Pro for video editing, and Illustrator for graphic design.
+- ✂️ **Additional Editing Tools**: Experience with DaVinci Resolve, CapCut, and Vegas Pro.
+- 🧠 **Creative Strategy & Storytelling**: Applying copywriting, narrative structure and consumer psychology to improve audience engagement and content performance.
+- 🧊 **3D Graphics & Modeling**: Using **Blender** for 3D modeling, rendering, thumbnails and digital visual assets.
 
-  - **Cybersecurity and Reverse Engineering**: Concepts and practices via TryHackMe, 
+### 🕵️ Cybersecurity & Defensive Security
 
-## 💬 Current languages that I am proficient in:
+- 🔐 **Cybersecurity Fundamentals & Reverse Engineering**: Exploring cybersecurity concepts, defensive security practices and practical exercises through platforms such as **TryHackMe**.
 
-- 🇧🇷 **Portuguese** C2 (Native)
-- 🇺🇸 **English** C2 (112 TOEFL Score + CCAA Language School Certificate)
-- 🇪🇸 **Spanish** C2 (CCAA Language School Certificate)
-- 🇩🇪 **German** B2 (Busuu and Duolingo Online Language School)
-- 🇫🇷 **French** B1 (Busuu and Duolingo Online Language School)
-- 🇨🇳 **Chinese** B1 (Busuu and Duolingo Online Language School)
-- 🇮🇹 **Italian** B1 (Busuu and Duolingo Online Language School)
+## 💬 Languages
 
-## 🏃 Real Life Passions and Skills:
+- 🇧🇷 **Portuguese**: Native (C2)
+- 🇺🇸 **English**: TOEFL iBT 112; CCAA language-school certificate (self-assessed C2)
+- 🇪🇸 **Spanish**: C2 (CCAA language-school certificate)
+- 🇩🇪 **German**: B2 (self-assessed; studied with Busuu and Duolingo)
+- 🇫🇷 **French**: B1 (self-assessed; studied with Busuu and Duolingo)
+- 🇨🇳 **Chinese**: B1 (self-assessed; studied with Busuu and Duolingo)
+- 🇮🇹 **Italian**: B1 (self-assessed; studied with Busuu and Duolingo)
 
-- 🎶 I play Guitar and Drums (not so well if you ask me how good am I) 
-- ⌨️ [Type Speed - 81 WPM+, 100% Accuracy](https://imgur.com/a/35x4iZc) (>90-92 Percentile), test made on a regular laptop keyboard (not mechanic), can reach 100+ WPM with the ideal conditions
-- 📗 Very passionate on reading about **psychology, philosophy, physics, chemistry, history and neuroscience**
-- 🐛 Kind of a bookworm, check my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
-- ❤️ **Hobbies and Passions**: Lego, Travelling, Watches, Porcelain, Botanics, Handiwork, Origami and the geometry behind it, Food, Automotive Engineering, Business, Technology, Teaching and Learning, Self-hosting, Art, Decoration, Nature, Music and Content Creation
-- 🧠 [MindBuilding](https://discord.com/invite/brain): Scientifically backed mind workouts to train smarter, less distracted, and less impulsive cognitive brain skills
-- 💭 Very into Socionics and the study of personality, aswell as psychology and neuroscience, about me: entj-t | 9w1 | so/sx | 925 | LIE | RLOEI <- I could talk about it for hours!
+## 🏃 Real-Life Passions and Hobbies
 
-## 🤔 Dreams and Life Objectives
+- 🎶 I play guitar and drums (though I wouldn’t claim to be an expert!).
+- ⌨️ [Typing speed: 81+ WPM at 100% accuracy](https://imgur.com/a/35x4iZc) (around the 90th–92nd percentile). Tested on a standard laptop keyboard; I can exceed 100 WPM under ideal conditions.
+- 📗 Passionate about reading on **psychology, philosophy, physics, chemistry, history, and neuroscience**.
+- 🐛 A bit of a bookworm, check out my [Goodreads profile](https://www.goodreads.com/user/show/168663463)!
+- ❤️ **Hobbies and passions**: LEGO, traveling, watches, porcelain, botany, handicrafts, origami and its underlying geometry, food, automotive engineering, business, technology, teaching and learning, self-hosting, art, interior decoration, nature, music, and content creation.
+- 🧠 [MindBuilding](https://discord.com/invite/brain): Brain-training activities focused on attention and cognitive skills.
+- 💭 Very interested in Socionics, personality theory, psychology, and neuroscience. My personality-type notes: **ENTJ-T | 9w1 | so/sx | 925 | LIE | RLOEI**.
+- ♟️ **Chess, Poker & Gaming**: Hobbies that challenge me to recognize patterns, think ahead, manage uncertainty, solve problems, and make decisions under pressure. I enjoy strategy, experimentation, quick thinking, incremental adjustments, and risk management.
 
-- 📚 Have a public library of my own possession, free for everybody who wants to learn, aswell as my own studies archived
-- 📖 Publish my own book about things that I love and life philosophy, publish online articles about my thoughts and interesting things
-- 🎥 Live along my passions of content creation, teaching/learning, economics, computer science, routine and hobbies 
-- 🏢 Become a successfully selfmade entrepreneur, have my own business(es) and be an investor of values
-- 🤓 Becoming a better Quantitative Developer and Financial Analyst everyday! Even though it could be quite hard for a country without a big market for the area, we have to create what we once dreamed about!
+## 🤔 Dreams & Life Objectives
 
-## 📫 Liked my Profile? Get in Touch!
+- 📚 **Build a Public Library of Knowledge**: Create and maintain a personal library open to everyone who wants to learn, while preserving an organized archive of my own studies, notes, and discoveries.
+- ✍️ **Write, Publish & Share Ideas**: Publish a book about the subjects I love and my philosophy of life, alongside online articles, personal essays, and explorations of interesting ideas.
+- 🎥 **Build a Life Around My Passions**: Combine content creation, teaching and learning, economics, computer science, daily routines, and personal hobbies into a fulfilling way of life.
+- 🏢 **Become an Entrepreneur & Value Investor**: Build successful businesses from the ground up, develop ideas into meaningful ventures, and become an investor guided by long-term value creation.
+- 📈 **Grow as a Quantitative Developer & Financial Analyst**: Keep improving my skills in quantitative development, financial analysis, and computational finance. Opportunities in these fields may be more limited in some markets, but I believe we should strive to build what we once dreamed of, even when the path is difficult.
 
-[![Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord)](https://skillicons.dev)
+## 📫 Liked My Profile? Let's Connect!
 
-- Connect with me on [Discord](https://discord.com/users/483406489533415444)
-- Connect with me on Linkedin: (*Currently Working*)
-- Connect with me on Twitter: (*Currently Working*)
-- Connect with me on Instagram: (*Currently Working*)
-- Read my Professional Github Pages: (*Currently Working*)
-- Read my Substack Personal Thoughts: (*Currently Working*)
-- Visit my website: (*Currently Working*)
+![Social icons](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord)
 
-## Computer Science Certifiactions & Practice
+- 💬 **Discord**: [Connect with me](https://discord.com/users/483406489533415444)
+- 💼 **LinkedIn**: *Coming soon*
+- 🐦 **Twitter / X**: *Coming soon*
+- 📸 **Instagram**: *Coming soon*
+- 📓 **Jupyter Notebooks & Research**: *Coming soon*: Notebooks, lectures, projects, experiments, and research published through GitHub Pages.
+- 📝 **Personal Writing & Essays**: *Coming soon*: Thoughts, reflections, and explorations published through Substack and Ghost.
+- 🌐 **Personal Website**: *Coming soon*: A central place for my projects, interests, work, and everything else I choose to share.
 
-NeetCode: (*Currently Working*)
-LeetCode: (*Currently Working*)
-Getcracked: (*Currently Working*)
-TryHackMe: (*Currently Working*)
+## 💻 Computer Science: Practice, Learning and Competitive Coding
 
-## Finance Certifications & Practice
+- 🧩 **NeetCode**: *In progress*
+- 💻 **LeetCode**: *In progress*
+- 🔓 **GetCracked**: *In progress*
+- 🛡️ **TryHackMe**: *In progress*
 
-Want to Get (Finance): CFA, CGA, CFP, FRM, PFS, CQF
+## 💹 Finance: Certification Roadmap
 
-Want to Get (Computer Science): Cisco Certified Internetwork Expert, CompTIA A+, CompTIA Security+, The EC-Council, CompTIA Network+, Computer Hacking Forensic Investigator (CHFI), aswell as AWS, Microsoft and ISC2
-(*Currently Working*)
+**Credentials I’m interested in exploring**
 
-### Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+- 📊 **CFA**: Chartered Financial Analyst 🚫
+- 🏦 **FRM**: Financial Risk Manager 🚫
+- 📈 **CFP**: Certified Financial Planner 🚫
+- 🧮 **CQF**: Certificate in Quantitative Finance 🚫
+- 🎓 **Other Finance Qualifications**: Exploring additional credentials relevant to financial analysis, portfolio management, asset allocation, and quantitative finance. 
 
+*Certification plans are subject to change as my academic and career goals develop.*
+
+## 🌐 IT Infrastructure, Networking & Security: Certification Roadmap
+
+**Credentials and learning paths I’m interested in exploring**
+
+- 🌐 **Networking**: Cisco certifications, including the CCIE.
+- 🖥️ **Hardware & IT Support**: CompTIA A+.
+- 🔐 **Cybersecurity**: CompTIA Security+, ISC2 certifications, and relevant EC-Council qualifications.
+- 🛜 **Networking Fundamentals**: CompTIA Network+.
+- 🕵️ **Digital Forensics**: Computer Hacking Forensic Investigator (CHFI).
+- ☁️ **Cloud & Enterprise Technologies**: Exploring certifications and learning paths from AWS, Microsoft, and other relevant providers.
+
+*These are potential learning paths, not a claim of current certification or completion.*
+
+## 🚀 Entrepreneurship & Other Professional Development
+
+- 🏢 **Business & Entrepreneurship**: Exploring business education, entrepreneurship, management, and practical skills that support building and growing companies.
+- 📚 **Continuous Learning**: Pursuing additional qualifications and developing practical skills aligned with my long-term interests.
+
+## 🧭 Career Interests
+
+- **📈 Quantitative Finance & Trading:** Quantitative Developer, Quantitative Researcher, Quantitative Trader; statistical modeling, algorithmic trading, financial mathematics, Python, C++.
+- **🏦 Investment Banking, M&A & Private Equity:** Investment Analyst, M&A Analyst, PE Analyst; financial modeling, valuation, accounting, corporate finance, strategic analysis.
+- **🤖 AI & Machine Learning Engineering:** AI Engineer, ML Engineer, Research Engineer; Python, statistics, predictive modeling, machine learning, data pipelines.
+- **💻 Software Engineering, Data Engineering & Cloud:** Backend Engineer, Data Engineer, Platform Engineer, Cloud Engineer, SRE; Python, JavaScript, SQL, Docker, Linux, distributed systems.
+- **🔐 Cybersecurity & Infrastructure Engineering:** Security Engineer, Cloud Security Engineer, Infrastructure Engineer; networking, Linux, virtualization, firewalls, VPNs, system hardening.
+- **📊 Asset Management & Investment Research:** Equity Research Analyst, Investment Analyst, Portfolio Analyst, Portfolio Manager; financial analysis, econometrics, portfolio construction, asset allocation, risk management.
+
+### Thanks for stopping by! Let’s connect and explore the fascinating world of technology together. 🚀
+
+#### "*We worship perfection because we can't have it; if we had it, we would reject it. Perfection is inhuman, because humanity is imperfect.*" — Fernando Pessoa 
