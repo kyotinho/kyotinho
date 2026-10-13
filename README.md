@@ -134,7 +134,9 @@ I’m William, a 21-year-old undergraduate and self-taught learner from Brazil �
 - ❤️ **Hobbies and passions**: LEGO, traveling, watches, porcelain, botany, handicrafts, origami and its underlying geometry, food, automotive engineering, business, technology, teaching and learning, self-hosting, art, interior decoration, nature, music, and content creation.
 - 🧠 [MindBuilding](https://discord.com/invite/brain): Brain-training activities focused on attention and cognitive skills.
 - 💭 Very interested in Socionics, personality theory, psychology, and neuroscience. My personality-type notes: **ENTJ-T | 9w1 | so/sx | 925 | LIE | RLOEI**.
-- ♟️ **Chess, Poker & Gaming**: Hobbies that challenge me to recognize patterns, think ahead, manage uncertainty, solve problems, and make decisions under pressure. I enjoy strategy, experimentation, quick thinking, incremental adjustments, and risk management.
+- ♟️ **[Chess](https://postimg.cc/gallery/Y7kNrgQ)
+, Poker & [Gaming](https://postimg.cc/gallery/rtq8tKW)**: Hobbies that challenge me to recognize patterns, think ahead, manage uncertainty, solve problems, and make decisions under pressure. I enjoy strategy, experimentation, quick thinking, incremental adjustments, and risk management.
+      - Chess Accounts: [Chessable](https://www.chessable.com/profile/user-kyoto), [Lichess](https://lichess.org/@/kyoto_gambit), [Chess.com]: [1](https://www.chess.com/member/buzuca/stats) [2](https://www.chess.com/member/deadlock_solomon1) [3] - [Got hacked and lost it </3]([https://postimg.cc/gallery/Y7kNrgQ](https://www.chess.com/member/kyotin1337)
 
 ## 🤔 Dreams & Life Objectives
 
@@ -156,7 +158,7 @@ I’m William, a 21-year-old undergraduate and self-taught learner from Brazil �
 - 📝 **Personal Writing & Essays**: *Coming soon*: Thoughts, reflections, and explorations published through Substack and Ghost.
 - 🌐 **Personal Website**: *Coming soon*: A central place for my projects, interests, work, and everything else I choose to share.
 
-## 💻 Computer Science: Practice, Learning and Competitive Coding
+## 💻 Computer Science: Practice, Learning and Competitive Coding Profiles
 
 - 🧩 **NeetCode**: *In progress*
 - 💻 **LeetCode**: *In progress*
