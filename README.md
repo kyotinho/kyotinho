@@ -105,7 +105,7 @@ I’m William, a 21-year-old undergraduate and self-taught learner from Brazil �
 
 ### 🎥 Content Creation & Digital Media
 
-- 🎬 **Video Production & Audience Development**: End-to-end content creation, editing and publishing for **YouTube, TikTok and Instagram**, with over **10 million views, 50 videos exceeding 100,000 views each, and 100,000+ hours of watch time**. [Portfolio and results](https://imgur.com/a/Tm6q3tn).
+- 🎬 **Video Production & Audience Development**: End-to-end content creation, editing and publishing for **YouTube, TikTok and Instagram**, with over **10 million views, 50 videos exceeding 100,000 views each, and 100,000+ hours of watch time**. [Portfolio and results](https://postimg.cc/gallery/zJPPM40).
 - 🎨 **Adobe Creative Cloud**: After Effects for motion graphics, Photoshop for image editing and thumbnails, Premiere Pro for video editing, and Illustrator for graphic design.
 - ✂️ **Additional Editing Tools**: Experience with DaVinci Resolve, CapCut, and Vegas Pro.
 - 🧠 **Creative Strategy & Storytelling**: Applying copywriting, narrative structure and consumer psychology to improve audience engagement and content performance.
