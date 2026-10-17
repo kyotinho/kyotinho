@@ -8,7 +8,7 @@ I’m William, a 21-year-old undergraduate and self-taught learner from Brazil �
 
 ## 🚀 About Me
 
-- 🔭 I’m currently pursuing undergraduate studies in **Computer Science and Economics**.
+- 🔭 I’m currently pursuing double graduation in **Economics and Computer Science**.
 - 💭 My longer-term academic interests include graduate study in **Economics, Computer Science and Maths**, an **MBA in Business or Quantitative Finance**, and potentially a **PhD**.
 - 📝 I’m passionate about **computer science, FP&A, M&A, data analysis, quantitative finance, and programming**.
 - 🌐 Aspiring **Quantitative Developer** and **Portfolio Manager**.
