@@ -33,6 +33,7 @@ I’m William, a 21-year-old undergraduate and self-taught learner from Brazil �
 - 📊 Developing **interactive financial dashboards and visualizations** using **JavaScript, React**, and modern front-end technologies.
 - 📈 Deepening my knowledge of **financial econometrics, time-series analysis, and statistical modeling** for quantitative research.
 - 🧮 Strengthening my foundations in **stochastic calculus, statistical arbitrage, and quantitative risk modeling** to develop more robust financial models and systematic strategies.
+- 🎲 Stata for data analysis—powerful statistics, visualization, data manipulation, and automated reporting
 
 ## 🪷 Career Interest Areas
 
